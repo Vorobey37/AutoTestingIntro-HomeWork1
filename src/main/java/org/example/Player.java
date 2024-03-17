@@ -1,9 +1,4 @@
-package org.max.home;
-
-import org.max.seminar.Card;
-
-import java.util.ArrayList;
-import java.util.List;
+package org.example;
 
 /**
  * Класс для описания игрока

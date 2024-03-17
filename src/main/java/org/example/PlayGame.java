@@ -1,4 +1,4 @@
-package org.max.home;
+package org.example;
 
 
 import java.util.ArrayList;
